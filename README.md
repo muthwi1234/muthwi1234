@@ -37,7 +37,7 @@
 
 ### 🚀 Projects & Systems
 
-- 🔌 **SmartMeter System** – [smartliquid.co.ke](https://smartliquid.co.ke)
+- 🔌 **SmartMeter System** – [smartliquid.co.ke](https://smartmeter.smartliquid.co.ke)
   - M-PESA STK & C2B payment flows
   - STS token generation (SOAP XML)
   - Role-based, multi-company architecture
